@@ -10,10 +10,9 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h2>Selamat Datang di Perpustakaan Pacri El-Kaciwi</h2>
-        <p>Silahkan isi buku tamu dibawah ini</p>
-        <hr>
-        
+      <h2>Selamat Datang di Perpustakaan Pacri El-Kaciwi</h2>
+      <p>Silahkan isi buku tamu dibawah ini</p>
+      <hr>
 <form method="post" action="kunjungan.php">
   <div class="form-group row">
     <label for="fullname" class="col-4 col-form-label">Nama Lengkap</label> 
