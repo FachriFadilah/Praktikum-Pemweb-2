@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h2>Selamat Datang di Perpustakaan STT-NF</h2>
+        <h2>Selamat Datang di Perpustakaan Pacri El-Kaciwi</h2>
         <p>Silahkan isi buku tamu dibawah ini</p>
         <hr>
         

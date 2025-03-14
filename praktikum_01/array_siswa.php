@@ -15,16 +15,18 @@
     <title>Paraktikum PHP</title>
 </head>
 <body>
-<h3>Daftar Nilai Siswa</h3> 
-<table border="5" > 
-    <thead> 
-        <tr> 
-            <th>No</th>
-            <th>NIM</th>
-            <th>UTS</th> 
-            <th>UAS</th>
-            <th>TUGAS</th> 
-            <th>NILAI AKHIR</th> 
+<h3 style="text-align:center;">DAFTAR NILAI MAHASISWA</h3>
+<center>
+
+    <table border="5" style="text-align:center;" > 
+        <thead> 
+            <tr> 
+                <th>No</th>
+                <th>NIM</th>
+                <th>UTS</th> 
+                <th>UAS</th>
+                <th>TUGAS</th> 
+                <th>NILAI AKHIR</th> 
         </tr> 
     </thead>
     <tbody>
@@ -41,8 +43,9 @@
                 echo '<tr/>';
                 $nomor++;
             }
-        ?>
+            ?>
     </tbody>
 </table>
+</center> 
 </body>
 </html>
